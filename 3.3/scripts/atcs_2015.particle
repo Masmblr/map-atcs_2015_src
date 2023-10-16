@@ -1,0 +1,57 @@
+atcs_2015/steam
+{
+  ejector
+  {
+    particle
+    {
+		shader sync textures/atcs_2015/atcs2015_steam
+		displacement 0 0 0 ~15
+		velocityType		static
+		velocityDir		linear
+		velocityMagnitude 5
+		velocity		0 0 1 ~5
+		accelerationType	static
+		accelerationDir		linear
+		acceleration		0 0 1 ~5
+		accelerationMagnitude	5
+		radius		1 40 1
+		alpha		100 .2 0
+		rotation	0 ~360 ~360
+		bounce		0.0
+		lifeTime 4000
+    }
+    count 6
+    delay 200
+    period 66 22 ~100%
+  }
+}
+
+atcs_2015/steamdn
+{
+  ejector
+  {
+ 
+    particle
+    {
+		shader sync textures/atcs_2015/atcs2015_steam
+		displacement 0 0 0 ~16
+		velocityType		static
+		velocityDir		linear
+		velocityMagnitude 4
+		velocity		0 0 -1 ~4
+		accelerationType	static
+		accelerationDir		linear
+		acceleration		0 0 -1 ~8
+		accelerationMagnitude	5
+		radius		1 5 80
+		alpha 1 0.5 0.0
+		rotation	0 ~360 ~360
+		bounce 0
+		lifeTime 10000
+    }
+    count infinite
+    delay 0
+    period 950 - ~75%
+  }
+}
+
