@@ -46,15 +46,15 @@ Some textures I have drawn for the map: </br>
 [<img src="meta/preview_textures/20.jpg" height="150"/>](meta/preview_textures/20.jpg)
 
 ## Version History:
-| Version: | Date:        | Status: | Release Build (.pk3):       
-| ------- | ------------- | ------: | -----------------: |
-| 2.0     | 19/10/2015  | beta | :x:        |     
-| 2.1     | 27/10/2015  | beta | :x:        |   
-| 2.2     | 30/10/2015  | beta | :x:        |   
-| 3.0     | 02/11/2015  | beta | :x:        |   
-| 3.1     | 05/11/2015  | beta | :x:        |   
-| 3.2     | 09/11/2015  | beta | :x:        |  
-| 3.3     | 10/11/2023  | final | [💾](https://github.com/Masmblr/map-ATCS_2015_src/releases/) |
+| Version: | Date:        | Status: |
+| ------- | ------------- | ------: |
+| 2.0     | 19/10/2015  | beta |
+| 2.1     | 27/10/2015  | beta |
+| 2.2     | 30/10/2015  | beta |
+| 3.0     | 02/11/2015  | beta |
+| 3.1     | 05/11/2015  | beta |
+| 3.2     | 09/11/2015  | beta |
+| 3.3     | 10/11/2023  | final |
 
 ## How-To
 **Binary**:
@@ -199,7 +199,7 @@ textures\atcs_2015\atcs_2015_moon.jpg <sup>[1](#Credit-1)</sup>
 ***
 
 ### Credit-1
-[Matthias "Masmblr Peters"](mailto:masmblr@gmail.com) \
+[Matthias "Masmblr" Peters](mailto:masmblr@gmail.com) \
 Content: Map, Textures, Shaders \
 License: [MIT License](https://opensource.org/license/mit/).
 (See "LICENSE" file for more Informations.)
