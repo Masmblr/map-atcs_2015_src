@@ -54,7 +54,7 @@ Some textures I have drawn for the map: </br>
 | 3.0     | 02/11/2015  | beta |
 | 3.1     | 05/11/2015  | beta |
 | 3.2     | 09/11/2015  | beta |
-| 3.3     | 10/11/2023  | final |
+| 3.3     | 10/11/2023  | release |
 
 ## How-To
 **Binary**:
